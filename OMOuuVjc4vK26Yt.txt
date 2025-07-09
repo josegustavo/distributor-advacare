@@ -2,4 +2,4 @@ vless://ac83ef21-e459-47a9-8459-8a6796c56efe@45.77.1.239:443?flow=&security=real
 
 vless://ac83ef21-e459-47a9-8459-8a6796c56efe@167.179.72.207:443?flow=&security=reality&encryption=none&type=tcp&host=&path=&sni=www.icloud.com&fp=chrome&pbk=THWkjQ9maVc7f7v1rVCDXNsiKVCMObOoC-mzNZC81X8&sid=f5f39baeec4baad7&serviceName=&headerType=none&mode=&seed=#Vultr-JP_TYO-vless
 
-vless://ac83ef21-e459-47a9-8459-8a6796c56efe@54.215.71.78:443?flow=&security=reality&encryption=none&type=tcp&host=&path=&sni=www.icloud.com&fp=chrome&pbk=THWkjQ9maVc7f7v1rVCDXNsiKVCMObOoC-mzNZC81X8&sid=f5f39baeec4baad7&serviceName=&headerType=none&mode=&seed=#AWS-US_CAL-vless
+vless://ac83ef21-e459-47a9-8459-8a6796c56efe@54.241.148.198:443?flow=&security=reality&encryption=none&type=tcp&host=&path=&sni=www.icloud.com&fp=chrome&pbk=THWkjQ9maVc7f7v1rVCDXNsiKVCMObOoC-mzNZC81X8&sid=f5f39baeec4baad7&serviceName=&headerType=none&mode=&seed=#AWS-US_CAL-vless
